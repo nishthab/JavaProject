@@ -133,7 +133,7 @@ static void draw(int x){
 			System.out.print("*");
 			
 		}
-		System.out.println("helooooooooooooooo");
+		System.out.println("heloooooooooooooooooooooooooooooo");
 	}
 		
 	}
